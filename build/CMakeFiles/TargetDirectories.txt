@@ -1,0 +1,3 @@
+/Users/tim/Github/gps-sdr/build/CMakeFiles/gps_test.dir
+/Users/tim/Github/gps-sdr/build/CMakeFiles/edit_cache.dir
+/Users/tim/Github/gps-sdr/build/CMakeFiles/rebuild_cache.dir
